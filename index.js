@@ -1,4 +1,4 @@
-function clculateFactorielle() {
+function calculateFactorial() {
     var x = 10;
     var result = 1;
     for (i = 10; i >= 2; i--) {
